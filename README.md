@@ -4,6 +4,12 @@ Make LLM a personal assistant.
 
 ## Papers
 
+- (2023-05) PALR: Personalization Aware LLMs for Recommendation [arxiv](https://arxiv.org/pdf/2305.07622.pdf)
+
+- (2023-05) Augmented Large Language Models with Parametric Knowledge Guiding [arxiv](https://arxiv.org/pdf/2305.04757.pdf)
+
+- (2023-05) Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction [arxiv](https://arxiv.org/pdf/2305.06474.pdf)
+
 - (2023-05) PersonaLLM: Investigating the Ability of GPT-3.5 to Express Personality Traits and Gender Differences [arxiv](https://arxiv.org/pdf/2305.02547.pdf)
 
 - (2023-05) Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs [arxiv](https://arxiv.org/abs/2305.03111)
@@ -13,6 +19,8 @@ Make LLM a personal assistant.
 - (2023-05) Privacy-Preserving Prompt Tuning for Large Language Model Services [arxiv](https://arxiv.org/abs/2305.06212)
 
   > T5/BERT
+
+- (2023-04) Unstructured and structured data: Can we have the best of both worlds with large language models? [arxiv](https://arxiv.org/abs/2304.13010)
 
 - (2023-04) LaMP: When Large Language Models Meet Personalization [arxiv](https://arxiv.org/abs/2304.11406)
 
