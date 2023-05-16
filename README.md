@@ -57,6 +57,8 @@ Make LLM a personal assistant.
 
 - [LangChain](https://python.langchain.com/en/latest/) is a framework for developing applications powered by language models.
 
+- [privateGPT](https://github.com/imartinez/privateGPT) Ask questions to your documents without an internet connection, using the power of LLMs.
+
 ## Opinions
 
 - The Dual LLM pattern for building AI assistants that can resist prompt injection [link](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
